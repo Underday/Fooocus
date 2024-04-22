@@ -44,7 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
-        "AlbedoBase_XL.safetensors": "https://civitai.com/api/download/models/329420"
+        "AlbedoBase_XL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/929872/albedobasexlV21.0h59.safetensors"
 
     },
     "embeddings_downloads": {},
